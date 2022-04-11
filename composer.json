@@ -1,5 +1,5 @@
 {
-    "name": "alexeykhr/laravel-clickhouse-migrations",
+    "name": "athmarios/laravel-clickhouse-migrations",
     "description": "Clickhouse migrations for Laravel",
     "keywords": [
         "clickhouse",
@@ -9,7 +9,7 @@
         "library"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/alexeykhr/laravel-clickhouse-migrations",
+    "homepage": "https://github.com/MariosTheof/laravel-clickhouse-migrations",
     "authors": [
         {
             "name": "Alexey Khrushch",
