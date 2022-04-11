@@ -1,6 +1,7 @@
 {
     "name": "athmarios/laravel-clickhouse-migrations",
     "description": "Clickhouse migrations for Laravel",
+    "version" : "1.0.2",
     "keywords": [
         "clickhouse",
         "migrations",
